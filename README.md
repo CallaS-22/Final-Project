@@ -15,7 +15,8 @@
 # How to Wire:
 - Collect all supplies(shown above)
   - Wire blue and red LEDs using two MM jumper wires, one resistor, and the colored LED for each one:
-<img src="https://private-user-images.githubusercontent.com/134316348/441339741-72bccbd5-edb2-49a8-8b7d-b274788156dd.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyMjg2MjUsIm5iZiI6MTc2NTIyODMyNSwicGF0aCI6Ii8xMzQzMTYzNDgvNDQxMzM5NzQxLTcyYmNjYmQ1LWVkYjItNDlhOC04YjdkLWIyNzQ3ODgxNTZkZC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIwOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMDhUMjExMjA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTE4ODMyNzUzNjA5Y2E3YTc2YTZiMTdkNDE5YjYzZWU4OTYwZDRmYzk5ZWI4ZjdhZDg1YTE0NmE2NzhkNTI2YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.aigM7RqVjJG0-JTZmeemph2mIP31mX6yFp21wnOyv4Y"/><img width="2537" height="2774" alt="image" src="https://github.com/user-attachments/assets/2564e1d2-7c15-4fed-953e-c1c9f583628d" />
+  - ![PicofSupplies](https://github.com/user-attachments/assets/a519eb3f-1dc3-4545-8eeb-722e9d629852)
+
 
 
   - Use this picture to help with wiring:
