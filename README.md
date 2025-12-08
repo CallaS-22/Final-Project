@@ -1,5 +1,6 @@
 # Final-Project
   - This build will read the temperature when you press a button, then it will display the temperature onto a LCD screen and depending on the temperature light up a red or blue LED
+  - Video of what it is
 
 ## Materials
 - LD 16x2 display
@@ -30,8 +31,8 @@
 ## How to Run:
 - Press button, program should start running and the temperature sensor will take the temperature. Then the code will check if the temperature is either bigger or lower than 72 degrees fahrenheit and light up the red or blue LED accordingly. The screen should display what the temperaure is whether or not the red or blue leds light up. 
 
-## Description of Code(either add comments to your Python file in the repository already, or copy your code into this Markdown file and add comments. These should explain your code.)
-- eidk
+## Description of Code:
+- either add comments to your Python file in the repository already, or copy your code into this Markdown file and add comments. These should explain your code.
 
 ## Reasources:
 - Youtube 1: https://www.youtube.com/watch?v=-_XkGju35MI&t=270s 
