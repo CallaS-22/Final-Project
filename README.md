@@ -37,5 +37,5 @@
 ## Reasources:
 - Youtube 1: https://www.youtube.com/watch?v=-_XkGju35MI&t=270s 
 - Youtube 2: https://www.youtube.com/watch?v=Hp9UjSjiH5I 
-- GeeksforGeekshttps://www.geeksforgeeks.org/computer-organization-architecture/i2c-communication-protocol/ 
+- GeeksforGeeks: https://www.geeksforgeeks.org/computer-organization-architecture/i2c-communication-protocol/ 
 - Infineon: https://www.infineon.com/design-resources/development-tools/sdk/psoc-software/psoc-4-components/character-lcd-charlcd 
