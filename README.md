@@ -1,7 +1,7 @@
-## Final-Project
+# Final-Project
   - This build will read the temperature when you press a button, then it will display the temperature onto a LCD screen and depending on the temperature light up a red or blue LED
 
-# Materials
+## Materials
 - LD 16x2 display
 - Blue LED(5mm)
 - Red LED(5mm)
@@ -12,7 +12,7 @@
 - Bread Board
 - PI
 
-# How to Wire:
+## How to Wire:
 - Collect all supplies(shown above)
   - Wire blue and red LEDs using two MM jumper wires, one resistor, and the colored LED for each one:
     ![PicofSupplies](https://github.com/user-attachments/assets/a519eb3f-1dc3-4545-8eeb-722e9d629852)
@@ -26,13 +26,13 @@
   - Then attatch the last piece, the display:
       - Four MM jumper wires and a LD 16x2 display
    
-# How to Run:
-- hedkl
+## How to Run:
+- Press button, program should start running and the temperature sensor will take the temperature. Then the code will check if the temperature is either bigger or lower than 72 degrees fahrenheit and light up the red or blue LED accordingly. The screen should display what the temperaure is whether or not the red or blue leds light up. 
 
-# Description of Code:
+## Description of Code:
 - eidk
 
-# Reasources:
+## Reasources:
 - Youtube 1: https://www.youtube.com/watch?v=-_XkGju35MI&t=270s 
 - Youtube 2: https://www.youtube.com/watch?v=Hp9UjSjiH5I 
 - GeeksforGeekshttps://www.geeksforgeeks.org/computer-organization-architecture/i2c-communication-protocol/ 
