@@ -20,8 +20,8 @@
   - Use this picture to help with wiring:
 <img width="2164" height="1123" alt="LEDwiring" src="https://github.com/user-attachments/assets/04608f24-33b2-42bd-b9df-fa6884d24989" />
 
-  - After doing that for both the red and the blue LEDs, attatch the button or temperature sensor next:
-      - Three MM jumper wires and a button or temperature sensor:
+  - After doing that for both the red and the blue LEDs, attatch the tactile button or DHT 11 temp/humidity sensor next:
+      - Three MM jumper wires and a button or temp/humidity sensor:
 
 
   - Then attatch the last piece, the display:
