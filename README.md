@@ -15,14 +15,15 @@
 ## How to Wire:
 - Collect all supplies(shown above)
   - Wire blue and red LEDs using two MM jumper wires, one resistor, and the colored LED for each one:
-    ![PicofSupplies](https://github.com/user-attachments/assets/a519eb3f-1dc3-4545-8eeb-722e9d629852)
+![PicofSupplies](https://github.com/user-attachments/assets/a519eb3f-1dc3-4545-8eeb-722e9d629852)
 
   - Use this picture to help with wiring:
-    <img width="2164" height="1123" alt="LEDwiring" src="https://github.com/user-attachments/assets/04608f24-33b2-42bd-b9df-fa6884d24989" />
+<img width="2164" height="1123" alt="LEDwiring" src="https://github.com/user-attachments/assets/04608f24-33b2-42bd-b9df-fa6884d24989" />
 
   - After doing that for both the red and the blue LEDs, attatch the button or temperature sensor next:
       - Three MM jumper wires and a button or temperature sensor:
-   
+
+
   - Then attatch the last piece, the display:
       - Four MM jumper wires and a LD 16x2 display
    
