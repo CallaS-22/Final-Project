@@ -30,7 +30,7 @@
 ## How to Run:
 - Press button, program should start running and the temperature sensor will take the temperature. Then the code will check if the temperature is either bigger or lower than 72 degrees fahrenheit and light up the red or blue LED accordingly. The screen should display what the temperaure is whether or not the red or blue leds light up. 
 
-## Description of Code:
+## Description of Code(either add comments to your Python file in the repository already, or copy your code into this Markdown file and add comments. These should explain your code.)
 - eidk
 
 ## Reasources:
@@ -38,8 +38,3 @@
 - Youtube 2: https://www.youtube.com/watch?v=Hp9UjSjiH5I 
 - GeeksforGeekshttps://www.geeksforgeeks.org/computer-organization-architecture/i2c-communication-protocol/ 
 - Infineon: https://www.infineon.com/design-resources/development-tools/sdk/psoc-software/psoc-4-components/character-lcd-charlcd 
-
-3. How to wire - include written instructions with visual aids
-4. How to run your program - this should include steps written for beginners. Feel free to use screenshots here two
-5. What does the code do - either add comments to your Python file in the repository already, or copy your code
-into this Markdown file and add comments. These should explain your code.
