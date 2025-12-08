@@ -34,7 +34,7 @@
 ## Description of Code:
 - either add comments to your Python file in the repository already, or copy your code into this Markdown file and add comments. These should explain your code.
 
-## Reasources:
+## Resources:
 - Youtube 1: https://www.youtube.com/watch?v=-_XkGju35MI&t=270s 
 - Youtube 2: https://www.youtube.com/watch?v=Hp9UjSjiH5I 
 - GeeksforGeeks: https://www.geeksforgeeks.org/computer-organization-architecture/i2c-communication-protocol/ 
