@@ -1,6 +1,9 @@
 # Final-Project
   - This build will read the temperature when you press a button, then it will display the temperature onto a LCD screen and depending on the temperature light up a red or blue LED
-  - Video of what it is
+  - Video of what it is:
+  - https://github.com/user-attachments/assets/eeb756a8-f630-4d3c-802e-08e10125732c
+
+
 
 ## Materials
 - LD 16x2 display
