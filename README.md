@@ -35,10 +35,20 @@
 - Press button, program should start running and the temperature sensor will take the temperature. Then the code will check if the temperature is either bigger or lower than 72 degrees fahrenheit and light up the red or blue LED accordingly. The screen should display what the temperaure is whether or not the red or blue leds light up. 
 
 ## Description of Code:
-- <img width="734" height="990" alt="Screenshot from 2025-12-12 14-32-44" src="https://github.com/user-attachments/assets/38193cb5-fb6b-45d0-84cd-d5e3c1ff6077" />
-- <img width="1560" height="990" alt="Screenshot from 2025-12-12 14-33-03" src="https://github.com/user-attachments/assets/c2ce6043-9b91-4d39-aa88-3a67d8119961" />
-- <img width="656" height="990" alt="Screenshot from 2025-12-12 14-33-17" src="https://github.com/user-attachments/assets/4ebc3e78-b866-4729-bec4-a68605f83944" />
-- <img width="858" height="990" alt="Screenshot from 2025-12-12 14-33-30" src="https://github.com/user-attachments/assets/2eae3b37-56e9-4467-958a-74b07b1b51e0" />
+<img width="734" height="990" alt="Screenshot from 2025-12-12 14-32-44" src="https://github.com/user-attachments/assets/38193cb5-fb6b-45d0-84cd-d5e3c1ff6077" />
+  - imports everything needed to run program and connect to build
+  - connects with parts of build and name them
+  - "def to_fahrenheit(c):" translates the celsius temp from the sensor to fahrenheit and returns it
+  - "def start_program():" does not start until the button has been pressed and then it runs the bulk of the program
+<img width="1560" height="990" alt="Screenshot from 2025-12-12 14-33-03" src="https://github.com/user-attachments/assets/c2ce6043-9b91-4d39-aa88-3a67d8119961" />
+<img width="656" height="990" alt="Screenshot from 2025-12-12 14-33-17" src="https://github.com/user-attachments/assets/4ebc3e78-b866-4729-bec4-a68605f83944" />
+  - gets the format of how to print the time, celsius, and fahrenheit on the screen
+  - if the temperature is higher than 72 degrees fahrenheit then it turns on the red light, but if the temperature is lower than 72 degrees fahrenheit then the blue light turns on.
+  - No matter what the temperature, the LCD screen will always display the temperature in fahrenheit
+<img width="858" height="990" alt="Screenshot from 2025-12-12 14-33-30" src="https://github.com/user-attachments/assets/2eae3b37-56e9-4467-958a-74b07b1b51e0" />
+  - makes sure program can run through some errors, and lets you end the program with a KeyboardInterrupt error
+  - this is the code for when the button is pressed, then the "def start_program()" will start running
+  - "pause()" stops the program until the button is pressed and the program starts up again
 
 
 
