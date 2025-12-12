@@ -35,7 +35,14 @@
 - Press button, program should start running and the temperature sensor will take the temperature. Then the code will check if the temperature is either bigger or lower than 72 degrees fahrenheit and light up the red or blue LED accordingly. The screen should display what the temperaure is whether or not the red or blue leds light up. 
 
 ## Description of Code:
-- 
+- <img width="734" height="990" alt="Screenshot from 2025-12-12 14-32-44" src="https://github.com/user-attachments/assets/38193cb5-fb6b-45d0-84cd-d5e3c1ff6077" />
+- <img width="1560" height="990" alt="Screenshot from 2025-12-12 14-33-03" src="https://github.com/user-attachments/assets/c2ce6043-9b91-4d39-aa88-3a67d8119961" />
+- <img width="656" height="990" alt="Screenshot from 2025-12-12 14-33-17" src="https://github.com/user-attachments/assets/4ebc3e78-b866-4729-bec4-a68605f83944" />
+- <img width="858" height="990" alt="Screenshot from 2025-12-12 14-33-30" src="https://github.com/user-attachments/assets/2eae3b37-56e9-4467-958a-74b07b1b51e0" />
+
+
+
+
 
 ## Resources:
 - Youtube 1: https://www.youtube.com/watch?v=-_XkGju35MI&t=270s 
