@@ -50,7 +50,11 @@
 - gets the format of how to print the time, celsius, and fahrenheit on the screen
 - if the temperature is higher than 72 degrees fahrenheit then it turns on the red light, but if the temperature is lower than 72 degrees fahrenheit then the blue light turns on.
 - No matter what the temperature, the LCD screen will always display the temperature in fahrenheit
+
+
 <img width="858" height="990" alt="Screenshot from 2025-12-12 14-33-30" src="https://github.com/user-attachments/assets/2eae3b37-56e9-4467-958a-74b07b1b51e0" />
+
+
 - makes sure program can run through some errors, and lets you end the program with a KeyboardInterrupt error
 - this is the code for when the button is pressed, then the "def start_program()" will start running
 - "pause()" stops the program until the button is pressed and the program starts up again
